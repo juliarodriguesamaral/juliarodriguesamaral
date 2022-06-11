@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
 
 
-My name is Julia Rodrigues do Amaral. I work as a Software Developer  at Itaú Unibanco.
+My name is Julia Rodrigues do Amaral. I work as a Software Engineer  at Zé Delivery.
 
 ### Languages & Tools 🛠  
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
