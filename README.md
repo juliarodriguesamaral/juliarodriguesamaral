@@ -1,26 +1,21 @@
+<h1 align="center">Hello 👋, I'm Julia Amaral</h1>
+<h3 align="center">Software Engineer | Brazil</h3>
+<br>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1>
+😄 **Pronouns:** she/her.
 
+🚀 **Profession:** Backend Software Engineer at @Zé Delivery.
 
-My name is Julia. I work as a Software Engineer at Zé Delivery.
+🎯 **Current Focus:** Java, Spring, Python, and Cloud Computing.
 
-### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;  
-![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;
+🔗 **Contact:** Connect with me on [Linkedin](https://www.linkedin.com/in/julia-rodrigues-amaral/).
 
+<br>
 
-### Analytics ⚙️
+## Coding Activity
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliarodriguesamaral&layout=compact&count_private=true)
-
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=juliarodriguesamaral&count_private=true&show_icons=true)
-
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=juliarodriguesamaral&hide_border=true)
-
-### Let's connect? 🤝
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/julia-rodrigues-amaral/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
-</p>
+<div>
+  <a href="https://github.com/juliarodriguesamaral">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarodriguesamaral&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarodriguesamaral&layout=compact&langs_count=16&theme=light"/>
+<div>
