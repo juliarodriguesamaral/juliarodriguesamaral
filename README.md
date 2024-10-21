@@ -1,12 +1,12 @@
 <h1 align="center">Hello 👋, I'm Julia Amaral</h1>
-<h3 align="center">Software Engineer | Brazil</h3>
+<h3 align="center">Data Engineer | Brazil</h3>
 <br>
 
 😄 **Pronouns:** she/her.
 
-🚀 **Profession:** Backend Software Engineer at @Zé Delivery.
+🚀 **Profession:** Data Engineer.
 
-🎯 **Current Focus:** Java, Spring, Python, and Cloud Computing.
+🎯 **Current Focus:** Python and SQL.
 
 🔗 **Contact:** Connect with me on [Linkedin](https://www.linkedin.com/in/julia-rodrigues-amaral/).
 
